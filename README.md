@@ -31,62 +31,32 @@ SEcureX is a decentralized platform addressing the critical issue of limited acc
    ```bash
    git clone https://github.com/yourusername/securex.git
    cd securex
-Install Dependencies:
 
-bash
-Copy code
-npm install
-Start the Development Server:
+2. **Install Dependencies:**:
 
-bash
-Copy code
-npm start
-Deploy Smart Contracts:
+   ```bash
+   npm install
 
-Ensure you have a local Ethereum blockchain running (e.g., using Ganache).
+3. **Start the Development Server**:
 
-Compile and deploy the smart contracts using Truffle:
+   ```bash
+   npm start
 
-bash
-Copy code
-truffle compile
-truffle migrate
-Connect MetaMask:
+4. **Deploy Smart Contracts**:
 
-Open MetaMask and connect to your local Ethereum blockchain.
-Import the account provided by Ganache.
-Usage
-Register an Account:
+- Ensure you have a local Ethereum blockchain running (e.g., using Ganache).
+- Compile and deploy the smart contracts using Truffle:
 
-Open the SEcureX application in your browser.
-Connect your MetaMask wallet.
-Register as a user to access the platform.
-Access Registry Information:
+   ```bash
+   truffle compile
+   truffle migrate
 
-Search for registered sex offenders and fraudsters.
-View detailed information stored on the blockchain.
-Add New Entries (Admin Only):
+5. **Connect MetaMask**:
+   
+   - Open MetaMask and connect to your local Ethereum blockchain.
+   - Import the account provided by Ganache.
 
-As an authorized administrator, add new entries to the registry.
-Ensure data integrity and immutability through blockchain transactions.
-Project Structure
-client/: Contains the React frontend code.
-server/: Contains the Node.js backend code.
-contracts/: Contains the Solidity smart contracts.
-migrations/: Contains the migration scripts for deploying smart contracts.
-Contributing
-We welcome contributions to SEcureX! Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch for your feature or bugfix.
-Make your changes and commit them.
-Push your changes to your fork.
-Create a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
-React
-Node.js
-Solidity
-MetaMask
