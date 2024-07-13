@@ -29,8 +29,8 @@ SEcureX is a decentralized platform addressing the critical issue of limited acc
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/securex.git
-   cd securex
+   git clone https://github.com/srihari-976/SecureX.git
+   cd SecureX/crime-records-frontend/
 
 2. **Install Dependencies:**:
 
