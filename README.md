@@ -1,4 +1,4 @@
-# SEcureX
+# SecureX
 
 SEcureX is a decentralized platform addressing the critical issue of limited access to comprehensive and up-to-date information on registered sex offenders and fraudsters. By leveraging blockchain technology, SEcureX ensures secure, transparent, and immutable data storage, enhancing community awareness and safety.
 
