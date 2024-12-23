@@ -56,7 +56,3 @@ SEcureX is a decentralized platform addressing the critical issue of limited acc
    - Open MetaMask and connect to your local Ethereum blockchain.
    - Import the account provided by Ganache.
 
-
-## License
-- This project is licensed under the MIT License. See the LICENSE file for details.
-
